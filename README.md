@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Starfish.
 
-🚀 Exploring the limitless possibilities of web3 since 2021!
+🚀 Exploring the limitless possibilities of web3 since 2019!
 
 ## About Me
 
