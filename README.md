@@ -31,3 +31,10 @@ I am a passionate web3 enthusiast with a deep interest in decentralized finance,
 My journey as a web3 enthusiast is an ongoing evolution driven by curiosity, creativity, and a genuine belief in the transformative power of decentralized systems. As the web3 space continues to evolve, I am committed to exploring new frontiers, championing the value of digital art, and actively contributing to its future.
 
 Let's shape the future together! 🌐✨
+
+---
+
+Connect with me:
+- GitHub: [Starfrich](https://github.com/starfrich)
+- Twitter: [Starfish?](https://twitter.com/starfrich)
+- Telegram: [Another Starfish](https://t.me/starfishprerich)
