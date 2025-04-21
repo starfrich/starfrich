@@ -17,3 +17,5 @@ Connect with me:
 GitHub: https://github.com/starfrich  
 Twitter: https://twitter.com/starfrich  
 Telegram: https://t.me/starfishprerich
+
+<img src="https://komarev.com/ghpvc/?username=starfrich&color=brightgreen" alt="Profile Views">
