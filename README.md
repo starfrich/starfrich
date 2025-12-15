@@ -1,15 +1,21 @@
 # Hi, I’m Starfish
 
-Web3 explorer since 2019 — passionate about NFTs, DeFi, and the future of decentralization.
+I work on web3 tooling, data, and open source projects. I enjoy exploring protocols by building things, running infra, and contributing to public repos.
 
-## Interests  
-- NFT trading & digital art  
-- Community building & open discussions  
-- Early adopter of emerging web3 projects  
+## Focus
+- Backend and web3 development
+- Open source tooling and data
+- Onchain metrics, dashboards, and infra
+- Experimenting with new protocols and ideas
 
-## Highlights  
-- Degen with a sharp eye for undervalued assets  
-- Active in airdrops, alpha hunts, and ecosystem growth
+## What I do
+- Build small to medium web3 products and prototypes
+- Create dashboards and tools around onchain data
+- Run validator nodes and work with real network metrics
+- Contribute to open source projects when something can be improved
+
+## Philosophy
+I prefer learning by shipping, working asynchronously, and improving systems directly rather than over discussing them.
 
 ## Stats
 
