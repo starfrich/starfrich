@@ -20,11 +20,11 @@ I prefer learning by shipping, working asynchronously, and improving systems dir
 ## Stats
 
 <div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=starfrich&theme=react" width="51%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=starfrich&layout=compact&show_icons=true&theme=react" alt="starfrich github-readme-stats" width="48%" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=starfrich&theme=dark" width="51%" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=starfrich&show_icons=true&theme=dark" alt="starfrich github-readme-stats" width="48%" />
 </div>
 <br />
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starfrich&layout=compact&theme=react" alt="starfrich github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=starfrich&layout=compact&theme=dark" width="39%" />
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=starfrich&theme=merko" alt="starfrich github readme activity graph" width="60%" />
 </div>
